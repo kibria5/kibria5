@@ -9,4 +9,6 @@
 <p align="left">
 </p>
 
+![kibria5 GitHub stats](https://github-readme-stats.vercel.app/api?username=kibria5&show_icons=true&theme=dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kibria5&theme=dark)](https://git.io/streak-stats)
