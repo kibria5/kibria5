@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kibria</h1>
 
 - 🔭 I’m currently working on Android Rom Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Python
 - 📫 How to reach me: mdkibria687@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibria5&label=Profile%20views&color=0e75b6&style=flat" alt="kibria5" /> </p
